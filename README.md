@@ -1,7 +1,7 @@
 Building Conversational Dialog Flow
 https://haz-bot.herokuapp.com/
 
-![alt text](https://raw.githubusercontent.com/asimkh/chatbot-dialogflow⁩/⁨chatbot⁩/⁨dist⁩/⁨chatbot⁩/assets/dialogflow.png)
+![alt text](https://raw.githubusercontent.com/asimkh/chatbot-dialogflow/master/chatbot/dist/chatbot/assets/dialogflow.png)
 
 Get Started
 https://github.com/dialogflow/resources
